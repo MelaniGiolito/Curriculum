@@ -1,0 +1,52 @@
+body{
+	background-color: #fffcce;
+}
+
+.encabezado{
+	background-color: #635c5c;
+	font-family: 'Fira Sans', sans-serif;
+	text-align: center;
+	color: white;
+	letter-spacing: 3px;
+}
+
+.text{
+	font-size: 'Tajawal', sans-serif;
+	text-align: center;
+	letter-spacing: 3px;
+}
+
+#carnet{
+	
+	border-radius: 100%;
+	border: 2px solid white;
+	display: block;
+	
+	justify-content: center;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#cajita{
+	background: #635c5c;
+	margin-top: 5px;
+	color: white;
+	font-size: 'Tajawal', sans-serif;
+	padding-bottom: 10px;
+}
+
+.boxa{
+	background-color: #635c5c;
+	text-align:center;
+	margin-top: 5px;
+	border-style: double;
+	color: white;
+	font-family: 'Tajawal', sans-serif;
+}
+
+.barra{
+	background-color: white;
+	height: 1px;
+}
+
+
